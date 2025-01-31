@@ -1,0 +1,205 @@
+# Copyright (C) 2024 WooCommerce Iris Gateway
+# This file is distributed under the same license as the WooCommerce Iris Gateway package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Iris Gateway 2.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wc-iris-gateway_advanced\n"
+"POT-Creation-Date: 2024-08-23 15:29:30+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/class-wc-iris-gateway.php:70 includes/class-wc-iris-gateway.php:93
+msgctxt "Iris payment method"
+msgid "Iris Payment"
+msgstr ""
+
+#: includes/class-wc-iris-gateway.php:71
+msgid "Allows iris payments. Order will be placed and store admin will have to manually check the transaction and proceed with the order."
+msgstr ""
+
+#: includes/class-wc-iris-gateway.php:84
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/class-wc-iris-gateway.php:86
+msgid "Enable Iris Payment"
+msgstr ""
+
+#: includes/class-wc-iris-gateway.php:90
+msgid "Title"
+msgstr ""
+
+#: includes/class-wc-iris-gateway.php:92
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: includes/class-wc-iris-gateway.php:97
+msgid "Description"
+msgstr ""
+
+#: includes/class-wc-iris-gateway.php:99 includes/class-wc-iris-gateway.php:106
+msgid "Payment method description which the user sees during checkout."
+msgstr ""
+
+#: includes/class-wc-iris-gateway.php:100
+msgid "Make your payment directly with IRIS. Please use your Order ID as the payment reference. Find IRIS details after order placement, to the next page or email instructions."
+msgstr ""
+
+#: includes/class-wc-iris-gateway.php:104
+msgid "Instructions"
+msgstr ""
+
+#: includes/class-wc-iris-gateway.php:107
+msgid "Make your payment directly with IRIS. Please use your Order ID as the payment reference."
+msgstr ""
+
+#: includes/class-wc-iris-gateway.php:111
+msgid "VAT Number"
+msgstr ""
+
+#: includes/class-wc-iris-gateway.php:113
+msgid "Insert the VAT Number that is connected to your bank account."
+msgstr ""
+
+#: includes/class-wc-iris-gateway.php:114
+msgid "Insert VAT number"
+msgstr ""
+
+#: includes/class-wc-iris-gateway.php:118
+msgid "Account Name"
+msgstr ""
+
+#: includes/class-wc-iris-gateway.php:120
+msgid "Insert the Account Name of account that is connected to the VAT Number."
+msgstr ""
+
+#: includes/class-wc-iris-gateway.php:121
+msgid "Insert account name"
+msgstr ""
+
+#: includes/class-wc-iris-gateway.php:125
+msgid "QR Code Image Url"
+msgstr ""
+
+#: includes/class-wc-iris-gateway.php:127
+msgid "You can uplaod your QR Code image to your media library or anywhere else and include the url to this field"
+msgstr ""
+
+#: includes/class-wc-iris-gateway.php:140
+msgid "Choose an order status"
+msgstr ""
+
+#: includes/class-wc-iris-gateway.php:145
+msgid "Choose the order status that will be set after checkout"
+msgstr ""
+
+#: includes/class-wc-iris-gateway.php:149
+msgid "Select order status"
+msgstr ""
+
+#: includes/class-wc-iris-gateway.php:153
+msgid "Restrict to specific user roles"
+msgstr ""
+
+#: includes/class-wc-iris-gateway.php:158
+msgid "Choose specific user roles the gateway will display for. If no user roles are chosen the gateway will display for all users"
+msgstr ""
+
+#: includes/class-wc-iris-gateway.php:162
+msgid "Select user roles"
+msgstr ""
+
+#: includes/class-wc-iris-gateway.php:166
+msgid "Enable for shipping methods"
+msgstr ""
+
+#: includes/class-wc-iris-gateway.php:171
+msgid "If Iris is only available for certain methods, set it up here. Leave blank to enable for all methods."
+msgstr ""
+
+#: includes/class-wc-iris-gateway.php:175
+msgid "Select shipping methods"
+msgstr ""
+
+#: includes/class-wc-iris-gateway.php:179
+msgid "Accept for virtual orders"
+msgstr ""
+
+#: includes/class-wc-iris-gateway.php:180
+msgid "Accept Iris if the order is virtual"
+msgstr ""
+
+#. Translators: %1$s shipping method name.
+
+#: includes/class-wc-iris-gateway.php:356
+msgid "Any &quot;%1$s&quot; method"
+msgstr ""
+
+#. Translators: %1$s shipping method title, %2$s shipping method id.
+
+#: includes/class-wc-iris-gateway.php:371
+msgid "%1$s (#%2$s)"
+msgstr ""
+
+#. Translators: %1$s zone name, %2$s shipping method instance name.
+
+#: includes/class-wc-iris-gateway.php:374
+msgid "%1$s &ndash; %2$s"
+msgstr ""
+
+#: includes/class-wc-iris-gateway.php:374
+msgid "Other locations"
+msgstr ""
+
+#: includes/class-wc-iris-gateway.php:443
+msgid "Awaiting iris payment"
+msgstr ""
+
+#: includes/class-wc-iris-gateway.php:472
+#: includes/class-wc-iris-gateway.php:500
+msgid "VAT Number: "
+msgstr ""
+
+#: includes/class-wc-iris-gateway.php:476
+#: includes/class-wc-iris-gateway.php:504
+msgid "Account Name: "
+msgstr ""
+
+#: wc-iris-gateway.php:149
+msgid "View WooCommerce Settings"
+msgstr ""
+
+#: wc-iris-gateway.php:149
+msgid "Settings"
+msgstr ""
+
+#: wc-iris-gateway.php:162
+msgid "The WooCommerce Iris Gateway extension requires that you have the WooCommerce core plugin installed and activated."
+msgstr ""
+
+#: wc-iris-gateway.php:162
+msgid "Install WooCommerce"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Iris Gateway"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/wc-iris-gateway/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Adds a simple Iris payment gateway functionality to your WooCommerce store. This plugin will give your clients the ability to pay the"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Elissavet Soileme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://3site.gr"
+msgstr ""
