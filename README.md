@@ -1,3 +1,6 @@
+
+![logo_teal_horizontal](https://github.com/user-attachments/assets/b94cfbf5-6799-462e-bad9-36b3c3ffbe85)
+
 # WooCommerce IRIS Payment Gateway
 
 A WordPress plugin that adds IRIS Payment Gateway functionality to your WooCommerce store, optimized for B2B transactions where instant digital payments are not the preferred option.
